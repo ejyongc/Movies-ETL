@@ -1,6 +1,6 @@
 #adding Files
 ratings.csv
-movies_metadata.csv
+#movies_metadata.csv
 config.py
 archive/
 credits.csv
