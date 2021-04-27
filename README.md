@@ -6,11 +6,7 @@ In this script we have created one function that takes in three files (*Wikipedi
 
 The script has been devided into four technical analysis deliverables: 
 
-### - ETL_function_test.ipynb
-  ETL Function to Read Three Data Files
-### - ETL_clean_wiki_movies.ipynb
-  Extract and Transform the Wikipedia Data
-### - ETL_clean_kaggle_data.ipynb
-  Extract and Transform the Kaggle data
-### - ETL_create_database.ipynb
-  Create the Movie Database
+- ETL_function_test.ipynb- *ETL Function to Read Three Data Files.
+- ETL_clean_wiki_movies.ipynb- *Extract and Transform the Wikipedia Data.
+- ETL_clean_kaggle_data.ipynb- *Extract and Transform the Kaggle data.
+- ETL_create_database.ipynb- *Create the Movie Database.
